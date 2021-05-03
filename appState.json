@@ -1,0 +1,94 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "b1587a4d-9171-4ca6-85ea-4af43bb3d685": {
+        "id": "b1587a4d-9171-4ca6-85ea-4af43bb3d685",
+        "parent": null,
+        "name": "tokyytokyoooinduu.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "tokyytokyoooinduu.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs8",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0,
+          "name": "tokyytokyoooinduu"
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ],
+        "lastUpdated": 1620035918067
+      },
+      "017d54b8-6515-4d3d-87b5-1488a8ab827f": {
+        "id": "017d54b8-6515-4d3d-87b5-1488a8ab827f",
+        "parent": null,
+        "name": "index.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "index.js"
+      },
+      "508dafda-520b-4e54-96f5-1075ee3139b7": {
+        "id": "508dafda-520b-4e54-96f5-1075ee3139b7",
+        "parent": null,
+        "name": "main.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "main.py"
+      }
+    },
+    "openFiles": [
+      "b1587a4d-9171-4ca6-85ea-4af43bb3d685"
+    ],
+    "currentFileId": "b1587a4d-9171-4ca6-85ea-4af43bb3d685",
+    "resources": {
+      "http-trigger": {
+        "name": "http-trigger",
+        "type": "http-trigger",
+        "config": {}
+      }
+    },
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.7.4",
+    "projectName": "tokyytokyoooinduu",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "asia-northeast1",
+    "platform": "GCP",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1620035922443
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "tokyytokyoooinduu",
+      "url": "https://github.com/Indunil1992/tokyytokyoooinduu"
+    }
+  }
+}
